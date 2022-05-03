@@ -38,4 +38,4 @@ A demo of this project can be found [here](https://markdown-previewer-aa.netlify
 
 ## How to Use
 
-Here's an [example](https://prnt.sc/iaMAJS7N_dsV) of how to use it.
+Here's an [example](https://prnt.sc/SE6IJW5ZFOsV) of how to use it.
