@@ -7,7 +7,7 @@ Simple markdown previewer, converting it to HTML. Useful for creating README fil
 ## Libraries
 
 * For styling I used [Inkline](https://www.inkline.io) along with [Sass](https://sass-lang.com/) using [SCSS](https://sass-lang.com/documentation/syntax).
-* For converting Markdown into HTML, [Marked](marked.js.org) was used.
+* For converting Markdown into HTML, [Marked](https://marked.js.org) was used.
 
 ## Project setup
 ```
