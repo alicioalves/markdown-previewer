@@ -1,4 +1,4 @@
-# Mardown Previewer
+# Markdown Previewer
 
 SPA developed with [Vue.js](https://vuejs.org/) using [VueCLI](https://cli.vuejs.org/).
 
@@ -38,4 +38,4 @@ A demo of this project can be found [here](https://markdown-previewer-aa.netlify
 
 ## How to Use
 
-Here's an [example](https://prnt.sc/SE6IJW5ZFOsV) of how to use it.
+Here's an [example](https://prnt.sc/ihlGvGDIsuHF) of how to use it.
